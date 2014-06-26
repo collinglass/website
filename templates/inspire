@@ -1,0 +1,40 @@
+{{define "title"}}Things that Inspire me{{end}}
+
+{{define "body"}}
+	<h1>Things that Inspire me</h1>
+{{end}}
+
+{{define "bit1"}}
+	<img class="bit-image" src="static/img/inspire/tank_man.jpg" alt="Tank man">
+	<aside>Tank man: Anonymous</aside>
+{{end}}
+
+{{define "bit2"}}
+	<img class="bit-image" src="static/img/inspire/burning_monk.jpg" alt="Burning Monk">
+	<aside>Burning Monk: Thích Quảng Đức</aside>
+{{end}}
+
+{{define "bit3"}}
+	<img class="bit-image" src="static/img/inspire/lennon.jpg" alt="John Lennon">
+	<aside>John Lennon</aside>
+{{end}}
+
+{{define "bit4"}}
+	<img class="bit-image" src="static/img/inspire/dali_self.jpg" alt="Salvador Dali">
+	<aside>Salvador Dali</aside>
+{{end}}
+
+{{define "bit5"}}
+	<img class="bit-image" src="static/img/inspire/carl_jung.jpg" alt="Carl Jung">
+	<aside>Carl Jung</aside>
+{{end}}
+
+{{define "bit6"}}
+	<img class="bit-image" src="static/img/inspire/kafka.jpg" alt="Franz Kafka">
+	<aside>Franz Kafka</aside>
+{{end}}
+
+{{define "bit7"}}
+	<img class="bit-image" src="static/img/inspire/bobby_boris.jpg" alt="Bobby Fischer">
+	<aside>Bobby Fischer</aside>
+{{end}}

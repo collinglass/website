@@ -1,0 +1,27 @@
+{{define "title"}}Things I've help make{{end}}
+
+{{define "body"}}
+	<h1>Things I've help make</h1>
+{{end}}
+
+{{define "bit1"}}
+	No note-worthy commits yet!
+{{end}}
+
+{{define "bit2"}}
+{{end}}
+
+{{define "bit3"}}
+{{end}}
+
+{{define "bit4"}}
+{{end}}
+
+{{define "bit5"}}
+{{end}}
+
+{{define "bit6"}}
+{{end}}
+
+{{define "bit7"}}
+{{end}}

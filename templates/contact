@@ -1,0 +1,30 @@
+{{define "title"}}Contact me{{end}}
+
+{{define "body"}}
+	<h1>Contact me</h1>
+{{end}}
+
+{{define "bit1"}}
+	<a href="https://github.com/collinglass">Github</a>
+{{end}}
+
+{{define "bit2"}}
+	<a href="https://twitter.com/collinglass">Twitter</a>
+{{end}}
+
+{{define "bit3"}}
+	<h4>Email:</h4>
+	<p>collinglass@gmx.com</p>
+{{end}}
+
+{{define "bit4"}}
+{{end}}
+
+{{define "bit5"}}
+{{end}}
+
+{{define "bit6"}}
+{{end}}
+
+{{define "bit7"}}
+{{end}}

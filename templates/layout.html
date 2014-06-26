@@ -1,0 +1,52 @@
+{{define "layout"}}
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>{{template "title"}}</title>
+		<link rel="stylesheet" href="static/css/main.css">
+	</head>
+	<body class="layout">
+		<section class="sidebar container">
+			<a id="name" href="http://localhost:3000/">
+				<h1>Collin Glass</h1>
+				<p>Equal parts Hipster, Hacker &amp; Hustler</p>
+			</a>
+
+			<ul class="sidebar links">
+				<li><a href="/mybits">Things I made.</a></li>
+				<li><a href="/helped">Things I helped make.</a></li>
+				<li><a href="/inspire">Things that inspire me.</a></li>
+				<li><a href="https://medium.com/@collinglass">Things I wrote.</a></li>
+				<li><a href="/contact">Contact me</a></li>
+			</ul>
+		</section>
+		<section class="main">
+			{{template "body"}}
+			<article class="bits">
+				<article class="bit">
+					{{template "bit1"}}
+				</article>
+				<article class="bit">
+					{{template "bit2"}}
+				</article>
+				<article class="bit">
+					{{template "bit3"}}
+				</article>
+				<article class="bit">
+					{{template "bit4"}}
+				</article>
+				<article class="bit">
+					{{template "bit5"}}
+				</article>
+				<article class="bit">
+					{{template "bit6"}}
+				</article>
+				<article class="bit">
+					{{template "bit7"}}
+				</article>
+			</article>
+		</section>
+	</body>
+</html>
+{{end}}

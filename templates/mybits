@@ -1,0 +1,30 @@
+{{define "title"}}Things I've Made{{end}}
+
+{{define "body"}}
+	<h1>Things I've Made</h1>
+{{end}}
+
+{{define "bit1"}}
+	<img class="bit-image" src="static/img/bookapi.jpg" alt="book api">
+	<aside>BookAPI: Open-source JSON API for the Gutenberg Project Canada</aside>
+{{end}}
+
+{{define "bit2"}}
+	<img class="bit-image" src="static/img/moustache.jpg" alt="moustache">
+	<aside>MoustacheMS: Mock Patient Management System for School project</aside>
+{{end}}
+
+{{define "bit3"}}
+{{end}}
+
+{{define "bit4"}}
+{{end}}
+
+{{define "bit5"}}
+{{end}}
+
+{{define "bit6"}}
+{{end}}
+
+{{define "bit7"}}
+{{end}}
